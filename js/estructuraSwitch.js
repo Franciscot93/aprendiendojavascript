@@ -34,3 +34,6 @@ switch(estacion){
                 
 
 }
+
+//frase.length = devuelve la cantidad de caracteres
+// frase.charAt(indice)
